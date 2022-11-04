@@ -1,0 +1,19 @@
+#EXTM3U
+#KNOWLEDGE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/1200px-National_Geographic_Channel.svg.png" group-title="KNOWLEDGE",[201] National Geographic
+rtp://@239.1.1.169:8988
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/800px-Logo_Nat_Geo_Wild.svg.png" group-title="KNOWLEDGE",[202] National Geographic Wild
+rtp://@239.1.1.35:8184
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" group-title="KNOWLEDGE",[203] Crime & Investigations
+rtp://@239.1.1.59:8328
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="KNOWLEDGE",[204] CGTN Documentary
+rtp://@239.1.1.121:8700
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/07/History_channel_us.png" group-title="KNOWLEDGE",[205] History
+rtp://@239.1.1.57:8316
+
+#EXTINF:-1 tvg-logo="http://n.sinaimg.cn/97973/transform/20160721/_RXX-fxuifip2506577.png" group-title="KNOWLEDGE",[206] Panda TV
+rtp://@239.1.1.208:9502

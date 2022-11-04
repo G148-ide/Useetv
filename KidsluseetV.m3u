@@ -1,0 +1,31 @@
+#EXTM3U
+#KIDS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f4/Dunia_Anak_Transvision.png" group-title="KIDS",[300] Dunia Anak
+rtp://@239.1.1.7:8016
+
+#EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/open-uri20160811-32147-9t19zy_0dfecd0d.png?region=0%2C0%2C299%2C160" group-title="KIDS",[301] Disney Channel
+rtp://@239.1.1.45:8244
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/800px-Disney_Junior.svg.png" group-title="KIDS",[302] Disney Junior
+rtp://@239.1.1.47:8256
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Nickelodeon_logo_new.svg/600px-Nickelodeon_logo_new.svg.png" group-title="KIDS",[304] Nickelodeon
+rtp://@239.1.1.41:8220
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/Old_Nick_Jr_logo.png" group-title="KIDS",[305] Nick Jr.
+rtp://@239.1.1.159:8928
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/CN_logo_with_white_C_on_black_background_and_black_N_on_white_background.svg/1280px-CN_logo_with_white_C_on_black_background_and_black_N_on_white_background.svg.png" group-title="KIDS",[306] Carton Network
+rtp://@239.1.1.123:8712
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Toonami_2014_logo_vector.svg/2000px-Toonami_2014_logo_vector.svg.png" group-title="KIDS",[307] Toonami
+rtp://@239.1.1.143:8832
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/The_DreamWorks_Channel.png" group-title="KIDS",[310] DreamWorks
+rtp://@239.1.1.139:8808
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e3/Spacetoon.png" group-title="KIDS",[314] SpaceToon
+rtp://@239.1.1.254:9338
+
+#EXTINF:-1 tvg-logo="http://www.nexmedia.co.id/wp-content/uploads/2017/04/HOREE_web.png" group-title="KIDS",[315] Horee!
+rtp://@239.1.1.68:8382

@@ -1,0 +1,16 @@
+#EXTM3U
+#SPORT
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f6/BeIN_Sports.png" group-title="SPORT",[701] BEIN Sports
+rtp://@239.1.1.217:9204
+
+#EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/B2E/bein-sports-2-hero.png" group-title="SPORT",[702] BEIN Sports 2
+rtp://@239.1.1.221:9300
+
+#EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/B3E/bein-sports-3-hero.png" group-title="SPORT",[703] BEIN Sports 3
+rtp://@239.1.1.223:9312
+
+#EXTINF:-1 tvg-logo="http://www.lbn.lk/images/channel-logo/1464927889njn.png" group-title="SPORT",[704] Fight Sport
+rtp://@239.1.1.177:9036
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/800px-FOX_Sports_logo.svg.png" group-title="SPORT",[705] FOX Sport 
+rtp://@239.1.1.103:8592

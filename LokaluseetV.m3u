@@ -1,0 +1,64 @@
+#EXTM3U
+#LOCAL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="Local Channel",[002] USee Sport 1
+rtp://@239.1.1.101:8580
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="Local Channel",[003] Usee Sport 2
+rtp://@239.1.1.53:8292
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/TVRI_Logo.png" group-title="Local Channel",[100] TVRI
+rtp://@239.1.1.37:8196
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/b/bb/20140425125902%21New_MetroTV_Logo_2010.png" group-title="Local Channel",[101] Metro TV
+rtp://@239.1.1.19:8088
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png" group-title="Local Channel",[102] CNN Indonesia
+rtp://@239.1.1.241:9362
+
+#EXTINF:-1 tvg-logo="http://www.tvonenews.tv/assets/img/element/logo-tvone-transp.png" group-title="Local Channel",[103] TV One
+rtp://@239.1.1.31:8160
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/800px-Trans_TV_2013.svg.png" group-title="Local Channel",[104] TRANSTV
+rtp://@239.1.1.27:8136
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Trans_7_2013.svg/800px-Trans_7_2013.svg.png" group-title="Local Channel",[105] TRANS7
+rtp://@239.1.1.29:8148
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/800px-SCTV_Logo.svg.png" group-title="Local Channel",[107] SCTV
+rtp://@239.1.1.21:8100
+
+#EXTINF:-1 tvg-logo="http://www.an.tv/app/uploads/2017/07/Logo-Antv-Viva.png" group-title="Local Channel",[108] ANTV
+rtp://@239.1.1.15:8064
+
+#EXTINF:-1 tvg-logo="http://www.indosiar.com/assets/img/logo-indosiar.png" group-title="Local Channel",[109] INDOSIAR
+rtp://@239.1.1.17:8076
+
+#EXTINF:-1 tvg-logo="http://www.netmedia.co.id/assets/img/logo1.png" group-title="Local Channel",[112] NET.
+rtp://@239.1.1.119:8688
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/2/2e/20170424142145%21Logo-Kompas_TV.png" group-title="Local Channel",[114] Kompas TV
+rtp://@239.1.1.197:9156
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://static.epg.best/id/GTV.id.png",GTV
+https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+
+#EXTINF:-1 tvg-id="MNC.ID" group-title="Indonesia" tvg-logo="https://static.epg.best/id/MNCTV.id.png",MNC TV
+https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://static.epg.best/id/RCTI.id.png",RCTI
+https://liveanevia.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+
+#EXTINF:-1 tvg-logo="http://www.beritasatu.com/assets/desktop/v2/images/logo-gede.png" group-title="Local Channel",[115]Berita Satu
+rtp://@239.1.1.183:9072
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9e/RtvIndonesia.png" group-title="Local Channel",[118] RTV
+rtp://@239.1.1.69:8388
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/8e/JTV_%282012%29.svg/800px-JTV_%282012%29.svg.png" group-title="Local Channel",[123] JTV
+rtp://@239.1.1.6:8010
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f2/Logo_tvedukasi_baru.png" group-title="Local Channel",[127] TV Edukasi
+rtp://@239.1.1.39:8208
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/2e/INews_TV_logo.png" group-title="Local Channel",[131] iNews TV
+https://cdn-livetv.metube.id/hls/inewstv_480/index.m3u8
