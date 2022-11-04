@@ -30,12 +30,6 @@ rtp://@239.1.1.175:9024
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/80/FOX_Action_Movies_%282017%29.png/800px-FOX_Action_Movies_%282017%29.png" group-title="MOVIES",[609] FOX Action Movies
 rtp://@239.1.1.125:8724
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" group-title="MOVIES",[611] Celestial Movies
-rtp://@239.1.1.97:8558
-
-#EXTINF:-1 tvg-logo="http://g.udn.com.tw/upfiles/B_CT/ctpeace5656888xyz777/PSN_PHOTO/742/f_10366742_1.png" group-title="MOVIES",[612] Star Chinese Movies
-rtp://@239.1.1.131:8760
-
 #EXTINF:-1 tvg-logo="ette4.wikia.nocookie.net/logopedia/images/2/28/Star_chinese_movies_legend.png" group-title="MOVIES",[613] Star Chinese Movies Legend
 rtp://@239.1.1.151:8880
 
