@@ -3,14 +3,8 @@
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-G8AiREdNvYI/V4JSsE4HoZI/AAAAAAAAEBc/nN0nIrUiovcKjftgJqxvXgh3QM0P57kwgCLcB/s1600/al_quran_al_kareem_tv.png" group-title="RELIGIOUS",[850] Al Quran Al Kareem
 rtp://@239.1.1.185:9084
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f9/Khazanah_Transvision.png" group-title="RELIGIOUS",[851] Khazanah
-rtp://@239.1.1.230:9356
-
 #EXTINF:-1 tvg-logo="http://rodja.tv/web/wp-content/uploads/logo-rodjatv.png" group-title="RELIGIOUS",[852] Rodja TV
 rtp://@239.1.1.224:9320
-
-#EXTINF:-1 tvg-logo="http://mtatv.net/v3/wp-contents/uploads/logo.png" group-title="RELIGIOUS",[853] MTA TV
-rtp://@239.1.1.238:9400
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/81/Logo_MQTV.png/800px-Logo_MQTV.png" group-title="RELIGIOUS",[854] MQTV
 rtp://@239.1.1.213:9252
