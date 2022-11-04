@@ -1,16 +1,7 @@
 #EXTM3U
 #GEN ENT
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-faPZEUdFnns/V3M19UQxg3I/AAAAAAAACrk/zi27Id9MW0Y/s640/%25255BUNSET%25255D.png" group-title="Gen Entertainment",[525] Hi Indo
-rtp://@239.1.1.240:9348
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/75/Dunia_Lain_Transvision.png" group-title="Gen Entertainment",[527] Dunia Lain
 rtp://@239.1.1.149:8868
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c7/Tahan_Tawa_Transvision.png" group-title="Gen Entertainment",[528] Tahan Tawa
-rtp://@239.1.1.231:9362
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Showtime%27s_Showcase_logo.svg/800px-Showtime%27s_Showcase_logo.svg.png" group-title="Gen Entertainment",[529] Showcase
-rtp://@239.1.1.225:9326
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/142_300.png" group-title="Gen Entertainment",[530] Pelangi
 rtp://@239.1.1.110:8634
@@ -39,20 +30,10 @@ rtp://@239.1.1.43:8232
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/50/Fox-Crime.png" group-title="Gen Entertainment",[513] FOX Crime
 rtp://@239.1.1.161:8940
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Comedy_Central_2011_Logo.svg/800px-Comedy_Central_2011_Logo.svg.png" group-title="Gen Entertainment",[515] Comedy Central
-rtp://@239.1.1.9:8028
+
 
 #EXTINF:-1 tvg-logo="http://www.astro.com.my/astro-go-channels/images/aniplus-logo.png" group-title="Gen Entertainment",[518] Aniplus
 rtp://@239.1.1.117:8676
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/398_300.png" group-title="Gen Entertainment",[519] NHK World Premium
 rtp://@239.1.1.165:8964
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/WakuWaku_Japan_logo.svg/800px-WakuWaku_Japan_logo.svg.png" group-title="Gen Entertainment",[520] WakuWaku Japan
-rtp://@239.1.1.75:8424
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f0/Star_chinese_movies_2012.png" group-title="Gen Entertainment",[521] Star Chinese
-rtp://@239.1.1.153:8892
-
-#EXTINF:-1 tvg-logo="http://www.astro.com.my/astro-go-channels/images/k-entertainment-logo.png" group-title="Gen Entertainment",[523] K-Plus
-rtp://@239.1.1.242:9426
