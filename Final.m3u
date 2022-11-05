@@ -1,127 +1,127 @@
 #EXTM3U
-#EXTINF:-1 logo="http://www.beritasatu.com/assets/desktop/v2/images/logo-gede.png" tvg-id="3c560d688311bbf183c6f169071b84be",Berita Satu
-http://172.24.16.3:9981/stream/channelid/1745704508?profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/8e/JTV_%282012%29.svg/800px-JTV_%282012%29.svg.png" tvg-id="383af34a6b88dc8e420ca393e1592350",JTV
-http://172.24.16.3:9981/stream/channelid/1257454136?profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/id/9/9e/RtvIndonesia.png" tvg-id="5ae537ebceed927991577f4416f59593",RTV
-http://172.24.16.3:9981/stream/channelid/1798825306?profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/id/f/f2/Logo_tvedukasi_baru.png" tvg-id="5baee4f94d81c220acd337451bf38923",TV Edukasi
-http://172.24.16.3:9981/stream/channelid/2045029979?profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" tvg-id="6c3c2c95c7bf07970a9e49b12d5da174",[002] USee Sport 1
-http://172.24.16.3:9981/stream/channelid/355220588?profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" tvg-id="76705280f95574833842c73b69adb948",[003] Usee Sport 2
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" tvg-id="76705280f95574833842c73b69adb948" tvg-chno="1",[003] Usee Sport 2
 http://172.24.16.3:9981/stream/channelid/5402742?profile=pass
-#EXTINF:-1 logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/TVRI_Logo.png" tvg-id="df9cb361fb326068a35ba78394a39e5f",[100] TVRI
-http://172.24.16.3:9981/stream/channelid/1639161055?profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/id/archive/b/bb/20140425125902%21New_MetroTV_Logo_2010.png" tvg-id="d37bb23d3874d4927193b4274f55ede4",[101] Metro TV
-http://172.24.16.3:9981/stream/channelid/1035107283?profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png" tvg-id="a3fb110ca53c6950c55a982b212509a9",[102] CNN Indonesia
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png" tvg-id="a3fb110ca53c6950c55a982b212509a9" tvg-chno="2",[102] CNN Indonesia
 http://172.24.16.3:9981/stream/channelid/202505123?profile=pass
-#EXTINF:-1 logo="http://www.tvonenews.tv/assets/img/element/logo-tvone-transp.png" tvg-id="ae956f7f5e618bdbe7a13a7b5c51449f",[103] TV One
-http://172.24.16.3:9981/stream/channelid/2138019246?profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/800px-Trans_TV_2013.svg.png" tvg-id="55969fff349768e398cabdf8e987d384",[104] TRANSTV
-http://172.24.16.3:9981/stream/channelid/2141165141?profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Trans_7_2013.svg/800px-Trans_7_2013.svg.png" tvg-id="00f95fc7f6b09843aa3f0a3fd9bb6c8b",[105] TRANS7
-http://172.24.16.3:9981/stream/channelid/1197472000?profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/800px-SCTV_Logo.svg.png" tvg-id="e526c030b8258e7b3e20e31098349eb2",[107] SCTV
-http://172.24.16.3:9981/stream/channelid/817899237?profile=pass
-#EXTINF:-1 logo="http://www.an.tv/app/uploads/2017/07/Logo-Antv-Viva.png" tvg-id="b5c3fc23a3d29877fba41afe458daae2",[108] ANTV
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" tvg-id="6c3c2c95c7bf07970a9e49b12d5da174" tvg-chno="3",[002] USee Sport 1
+http://172.24.16.3:9981/stream/channelid/355220588?profile=pass
+#EXTINF:-1 logo="http://www.an.tv/app/uploads/2017/07/Logo-Antv-Viva.png" tvg-id="b5c3fc23a3d29877fba41afe458daae2" tvg-chno="4",[108] ANTV
 http://172.24.16.3:9981/stream/channelid/603767733?profile=pass
-#EXTINF:-1 logo="http://www.indosiar.com/assets/img/logo-indosiar.png" tvg-id="9359dff2a13085dab773071b20010987",[109] INDOSIAR
-http://172.24.16.3:9981/stream/channelid/1927240083?profile=pass
-#EXTINF:-1 logo="http://www.netmedia.co.id/assets/img/logo1.png" tvg-id="7a77b1e6c99010d5e74b88cbe54543f6",[112] NET.
-http://172.24.16.3:9981/stream/channelid/1722906490?profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/id/archive/2/2e/20170424142145%21Logo-Kompas_TV.png" tvg-id="0558a1c724730a65bb518002ab8419a2",[114] Kompas TV
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/800px-SCTV_Logo.svg.png" tvg-id="e526c030b8258e7b3e20e31098349eb2" tvg-chno="5",[107] SCTV
+http://172.24.16.3:9981/stream/channelid/817899237?profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/id/archive/b/bb/20140425125902%21New_MetroTV_Logo_2010.png" tvg-id="d37bb23d3874d4927193b4274f55ede4" tvg-chno="6",[101] Metro TV
+http://172.24.16.3:9981/stream/channelid/1035107283?profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Trans_7_2013.svg/800px-Trans_7_2013.svg.png" tvg-id="00f95fc7f6b09843aa3f0a3fd9bb6c8b" tvg-chno="7",[105] TRANS7
+http://172.24.16.3:9981/stream/channelid/1197472000?profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/id/archive/2/2e/20170424142145%21Logo-Kompas_TV.png" tvg-id="0558a1c724730a65bb518002ab8419a2" tvg-chno="8",[114] Kompas TV
 http://172.24.16.3:9981/stream/channelid/1201756165?profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/1200px-National_Geographic_Channel.svg.png" tvg-id="22c3f8e0e4e4048d4e6ecd158df37b31",[201] National Geographic
-http://172.24.16.3:9981/stream/channelid/1626915618?profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/800px-Logo_Nat_Geo_Wild.svg.png" tvg-id="7aec79ef67ab5f8e481f63402217a22f",[202] National Geographic Wild
-http://172.24.16.3:9981/stream/channelid/1870261370?profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" tvg-id="1a9edba442d77aa706c36026e8e5c024",[203] Crime & Investigations
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/8e/JTV_%282012%29.svg/800px-JTV_%282012%29.svg.png" tvg-id="383af34a6b88dc8e420ca393e1592350" tvg-chno="9",JTV
+http://172.24.16.3:9981/stream/channelid/1257454136?profile=pass
+#EXTINF:-1 logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/TVRI_Logo.png" tvg-id="df9cb361fb326068a35ba78394a39e5f" tvg-chno="10",[100] TVRI
+http://172.24.16.3:9981/stream/channelid/1639161055?profile=pass
+#EXTINF:-1 logo="http://www.netmedia.co.id/assets/img/logo1.png" tvg-id="7a77b1e6c99010d5e74b88cbe54543f6" tvg-chno="11",[112] NET.
+http://172.24.16.3:9981/stream/channelid/1722906490?profile=pass
+#EXTINF:-1 logo="http://www.beritasatu.com/assets/desktop/v2/images/logo-gede.png" tvg-id="3c560d688311bbf183c6f169071b84be" tvg-chno="12",Berita Satu
+http://172.24.16.3:9981/stream/channelid/1745704508?profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/id/9/9e/RtvIndonesia.png" tvg-id="5ae537ebceed927991577f4416f59593" tvg-chno="13",RTV
+http://172.24.16.3:9981/stream/channelid/1798825306?profile=pass
+#EXTINF:-1 logo="http://www.indosiar.com/assets/img/logo-indosiar.png" tvg-id="9359dff2a13085dab773071b20010987" tvg-chno="14",[109] INDOSIAR
+http://172.24.16.3:9981/stream/channelid/1927240083?profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/id/f/f2/Logo_tvedukasi_baru.png" tvg-id="5baee4f94d81c220acd337451bf38923" tvg-chno="15",TV Edukasi
+http://172.24.16.3:9981/stream/channelid/2045029979?profile=pass
+#EXTINF:-1 logo="http://www.tvonenews.tv/assets/img/element/logo-tvone-transp.png" tvg-id="ae956f7f5e618bdbe7a13a7b5c51449f" tvg-chno="16",[103] TV One
+http://172.24.16.3:9981/stream/channelid/2138019246?profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/800px-Trans_TV_2013.svg.png" tvg-id="55969fff349768e398cabdf8e987d384" tvg-chno="17",[104] TRANSTV
+http://172.24.16.3:9981/stream/channelid/2141165141?profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" tvg-id="1a9edba442d77aa706c36026e8e5c024" tvg-chno="18",[203] Crime & Investigations
 http://172.24.16.3:9981/stream/channelid/618372634?profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" tvg-id="bc04aaa5f1d10a8c8c06f3552aa2810f",[204] CGTN Documentary
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" tvg-id="bc04aaa5f1d10a8c8c06f3552aa2810f" tvg-chno="19",[204] CGTN Documentary
 http://172.24.16.3:9981/stream/channelid/631899324?profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/id/0/07/History_channel_us.png" tvg-id="a55499ff445fc51544b1e761e855acf2",[205] History
-http://172.24.16.3:9981/stream/channelid/2140755109?profile=pass
-#EXTINF:-1 logo="http://n.sinaimg.cn/97973/transform/20160721/_RXX-fxuifip2506577.png" tvg-id="db9eafbbd9f905b38df32633e028f9b2",[206] Panda TV
+#EXTINF:-1 logo="http://n.sinaimg.cn/97973/transform/20160721/_RXX-fxuifip2506577.png" tvg-id="db9eafbbd9f905b38df32633e028f9b2" tvg-chno="20",[206] Panda TV
 http://172.24.16.3:9981/stream/channelid/1001365211?profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/id/f/f4/Dunia_Anak_Transvision.png" tvg-id="2e60a3ca09613b6afa028bf1d3daa31a",[300] Dunia Anak
-http://172.24.16.3:9981/stream/channelid/1252220974?profile=pass
-#EXTINF:-1 logo="https://lumiere-a.akamaihd.net/v1/images/open-uri20160811-32147-9t19zy_0dfecd0d.png?region=0%2C0%2C299%2C160" tvg-id="16093a26aebf6f7fc418fe0e6ba6a644",[301] Disney Channel
-http://172.24.16.3:9981/stream/channelid/641337622?profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/800px-Disney_Junior.svg.png" tvg-id="ed927524a3ce1cba8fdddd5c3313bed5",[302] Disney Junior
-http://172.24.16.3:9981/stream/channelid/611685101?profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Nickelodeon_logo_new.svg/600px-Nickelodeon_logo_new.svg.png" tvg-id="fab5b52d36682a5eacc9cc3e15392385",[304] Nickelodeon
-http://172.24.16.3:9981/stream/channelid/766883322?profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/f/f8/Old_Nick_Jr_logo.png" tvg-id="719f1f9518dbd6f5b0922d406bb7951e",[305] Nick Jr.
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/1200px-National_Geographic_Channel.svg.png" tvg-id="22c3f8e0e4e4048d4e6ecd158df37b31" tvg-chno="21",[201] National Geographic
+http://172.24.16.3:9981/stream/channelid/1626915618?profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/800px-Logo_Nat_Geo_Wild.svg.png" tvg-id="7aec79ef67ab5f8e481f63402217a22f" tvg-chno="22",[202] National Geographic Wild
+http://172.24.16.3:9981/stream/channelid/1870261370?profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/id/0/07/History_channel_us.png" tvg-id="a55499ff445fc51544b1e761e855acf2" tvg-chno="23",[205] History
+http://172.24.16.3:9981/stream/channelid/2140755109?profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/f/f8/Old_Nick_Jr_logo.png" tvg-id="719f1f9518dbd6f5b0922d406bb7951e" tvg-chno="24",[305] Nick Jr.
 http://172.24.16.3:9981/stream/channelid/354393969?profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/CN_logo_with_white_C_on_black_background_and_black_N_on_white_background.svg/1280px-CN_logo_with_white_C_on_black_background_and_black_N_on_white_background.svg.png" tvg-id="11f7cc978ebf6049ea28ed98dec3833c",[306] Carton Network
-http://172.24.16.3:9981/stream/channelid/399308561?profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Toonami_2014_logo_vector.svg/2000px-Toonami_2014_logo_vector.svg.png" tvg-id="a7bf4c66cc18c82ae519f910aed544d8",[307] Toonami
-http://172.24.16.3:9981/stream/channelid/1716305831?profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/1/15/The_DreamWorks_Channel.png" tvg-id="a4cd4c3a6d5bcd3de9351ee7aeff4dd2",[310] DreamWorks
-http://172.24.16.3:9981/stream/channelid/978111908?profile=pass
-#EXTINF:-1 logo="http://www.nexmedia.co.id/wp-content/uploads/2017/04/HOREE_web.png" tvg-id="179c33972e06c515713727d697d7c64f",[315] Horee!
+#EXTINF:-1 logo="http://www.nexmedia.co.id/wp-content/uploads/2017/04/HOREE_web.png" tvg-id="179c33972e06c515713727d697d7c64f" tvg-chno="25",[315] Horee!
 http://172.24.16.3:9981/stream/channelid/389258263?profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/id/a/a1/Insert_Transvision.png" tvg-id="1d4d771b39dd01feb992e1c946029c85",[503] INSERT
-http://172.24.16.3:9981/stream/channelid/460803357?profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/FOX_Life_%282017%29.png" tvg-id="a08bb1d82d15315504983219ec6ae475",[504] FOX Life
-http://172.24.16.3:9981/stream/channelid/1488030624?profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Sony_Channel_logo.png" tvg-id="acad91073157f2d349bf45b69e8476ee",[511] SONY Channel
-http://172.24.16.3:9981/stream/channelid/126987692?profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/800px-FOX_wordmark.svg.png" tvg-id="2f01c845594672c0e132780de83d9bd5",[512] FOX
-http://172.24.16.3:9981/stream/channelid/1170735407?profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/id/5/50/Fox-Crime.png" tvg-id="7dce87f85ccfb685630b3bae98d059fc",[513] FOX Crime
-http://172.24.16.3:9981/stream/channelid/2022166141?profile=pass
-#EXTINF:-1 logo="http://www.astro.com.my/astro-go-channels/images/aniplus-logo.png" tvg-id="7985061bbc173aaa09892b84545c77b6",[518] Aniplus
-http://172.24.16.3:9981/stream/channelid/453412217?profile=pass
-#EXTINF:-1 logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/398_300.png" tvg-id="100d659c7fe8f7fb0ee71f6411c4cfb0",[519] NHK World Premium
-http://172.24.16.3:9981/stream/channelid/476384528?profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/id/7/75/Dunia_Lain_Transvision.png" tvg-id="25be923c152bf8f4cc7ea11e38bfc29c",[527] Dunia Lain
-http://172.24.16.3:9981/stream/channelid/1016249893?profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/CCTV-4_%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85.svg/800px-CCTV-4_%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85.svg.png" tvg-id="9cabb3acf710e9eefee4ae118c25a66e",[533] CCTV 4
-http://172.24.16.3:9981/stream/channelid/749972380?profile=pass
-#EXTINF:-1 logo="http://www.nexmedia.co.id/wp-content/uploads/2017/04/CITRADRAMA.png" tvg-id="fcdf3c8cc65e2377e42b675e983fe505",[534] Citra Drama
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/CN_logo_with_white_C_on_black_background_and_black_N_on_white_background.svg/1280px-CN_logo_with_white_C_on_black_background_and_black_N_on_white_background.svg.png" tvg-id="11f7cc978ebf6049ea28ed98dec3833c" tvg-chno="26",[306] Carton Network
+http://172.24.16.3:9981/stream/channelid/399308561?profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/800px-Disney_Junior.svg.png" tvg-id="ed927524a3ce1cba8fdddd5c3313bed5" tvg-chno="27",[302] Disney Junior
+http://172.24.16.3:9981/stream/channelid/611685101?profile=pass
+#EXTINF:-1 logo="https://lumiere-a.akamaihd.net/v1/images/open-uri20160811-32147-9t19zy_0dfecd0d.png?region=0%2C0%2C299%2C160" tvg-id="16093a26aebf6f7fc418fe0e6ba6a644" tvg-chno="28",[301] Disney Channel
+http://172.24.16.3:9981/stream/channelid/641337622?profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Nickelodeon_logo_new.svg/600px-Nickelodeon_logo_new.svg.png" tvg-id="fab5b52d36682a5eacc9cc3e15392385" tvg-chno="29",[304] Nickelodeon
+http://172.24.16.3:9981/stream/channelid/766883322?profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/1/15/The_DreamWorks_Channel.png" tvg-id="a4cd4c3a6d5bcd3de9351ee7aeff4dd2" tvg-chno="30",[310] DreamWorks
+http://172.24.16.3:9981/stream/channelid/978111908?profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/id/f/f4/Dunia_Anak_Transvision.png" tvg-id="2e60a3ca09613b6afa028bf1d3daa31a" tvg-chno="31",[300] Dunia Anak
+http://172.24.16.3:9981/stream/channelid/1252220974?profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Toonami_2014_logo_vector.svg/2000px-Toonami_2014_logo_vector.svg.png" tvg-id="a7bf4c66cc18c82ae519f910aed544d8" tvg-chno="32",[307] Toonami
+http://172.24.16.3:9981/stream/channelid/1716305831?profile=pass
+#EXTINF:-1 logo="http://www.nexmedia.co.id/wp-content/uploads/2017/04/CITRADRAMA.png" tvg-id="fcdf3c8cc65e2377e42b675e983fe505" tvg-chno="33",[534] Citra Drama
 http://172.24.16.3:9981/stream/channelid/205316092?profile=pass
-#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/694086000067235840/j1VRXvlT_400x400.jpg" tvg-id="9e5be33a6cfd553bd312d2359f4f1c7b",[600] Flik
-http://172.24.16.3:9981/stream/channelid/987978654?profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png" tvg-id="6eed7798c846e29b4d872d000b010daa",[601] HBO
-http://172.24.16.3:9981/stream/channelid/410512750?profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/HBO_Signature_Asia.svg/800px-HBO_Signature_Asia.svg.png" tvg-id="a6612038489a33fe4f845537aa484284",[602] HBO Signature
-http://172.24.16.3:9981/stream/channelid/941646246?profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/800px-Cinemax_%28Yellow%29.svg.png" tvg-id="8d038f5129a1176212787ca23e05edf1",[603] CINEMAX
-http://172.24.16.3:9981/stream/channelid/1368327053?profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" tvg-id="c8bd2d519a09d5fbac188def87c98a48",[604] HBO Hits
-http://172.24.16.3:9981/stream/channelid/1361952200?profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/800px-HBO_Family_Asia_logo.svg.png" tvg-id="49b2110becc62abf20b411e9e1b9e2a5",[605] HBO Family
-http://172.24.16.3:9981/stream/channelid/185709129?profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/800px-Fox_Movies_%28Asia%29_logo.svg.png" tvg-id="1e8bd2f761344bd1446230f8db7a9e9b",[607] FOX Movies
-http://172.24.16.3:9981/stream/channelid/2010286878?profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/id/b/b5/Fox_Family_Movies_Logo.svg.png" tvg-id="415271975ec098733a9afb0a3e636202",[608] FOX Family Movies
-http://172.24.16.3:9981/stream/channelid/393302593?profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/80/FOX_Action_Movies_%282017%29.png/800px-FOX_Action_Movies_%282017%29.png" tvg-id="853c4072502423e73e3140bdb0595068",[609] FOX Action Movies
-http://172.24.16.3:9981/stream/channelid/1916812421?profile=pass
-#EXTINF:-1 tvg-id="ff088eb8680af62340642cb13c28ec66",[613] Star Chinese Movies Legend
-http://172.24.16.3:9981/stream/channelid/948832511?profile=pass
-#EXTINF:-1 logo="http://www.televisionpost.com/wp-content/uploads/2013/12/zee_bioskop.png" tvg-id="dfd0b3311355d413c03e73204a00a964",[614] Z Bioskop
-http://172.24.16.3:9981/stream/channelid/833867999?profile=pass
-#EXTINF:-1 tvg-id="e6a87a867d2be50873282639fcdd1100",[615] Cinema World
-http://172.24.16.3:9981/stream/channelid/108701926?profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/id/9/96/Bioskop_Indonesia_Transvision.png" tvg-id="d6bfb79d46691b59e3f275ea40006d4e",[618] Bioskop Indonesia
-http://172.24.16.3:9981/stream/channelid/498581462?profile=pass
-#EXTINF:-1 logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f6/BeIN_Sports.png" tvg-id="84f9f90f46e4f1a3f6e37cc699bb18d5",[701] BEIN Sports
+#EXTINF:-1 logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/398_300.png" tvg-id="100d659c7fe8f7fb0ee71f6411c4cfb0" tvg-chno="34",[519] NHK World Premium
+http://172.24.16.3:9981/stream/channelid/476384528?profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/800px-FOX_wordmark.svg.png" tvg-id="2f01c845594672c0e132780de83d9bd5" tvg-chno="35",[512] FOX
+http://172.24.16.3:9981/stream/channelid/1170735407?profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/id/5/50/Fox-Crime.png" tvg-id="7dce87f85ccfb685630b3bae98d059fc" tvg-chno="36",[513] FOX Crime
+http://172.24.16.3:9981/stream/channelid/2022166141?profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Sony_Channel_logo.png" tvg-id="acad91073157f2d349bf45b69e8476ee" tvg-chno="37",[511] SONY Channel
+http://172.24.16.3:9981/stream/channelid/126987692?profile=pass
+#EXTINF:-1 logo="http://www.astro.com.my/astro-go-channels/images/aniplus-logo.png" tvg-id="7985061bbc173aaa09892b84545c77b6" tvg-chno="38",[518] Aniplus
+http://172.24.16.3:9981/stream/channelid/453412217?profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/id/a/a1/Insert_Transvision.png" tvg-id="1d4d771b39dd01feb992e1c946029c85" tvg-chno="39",[503] INSERT
+http://172.24.16.3:9981/stream/channelid/460803357?profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/CCTV-4_%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85.svg/800px-CCTV-4_%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85.svg.png" tvg-id="9cabb3acf710e9eefee4ae118c25a66e" tvg-chno="40",[533] CCTV 4
+http://172.24.16.3:9981/stream/channelid/749972380?profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/id/7/75/Dunia_Lain_Transvision.png" tvg-id="25be923c152bf8f4cc7ea11e38bfc29c" tvg-chno="41",[527] Dunia Lain
+http://172.24.16.3:9981/stream/channelid/1016249893?profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/FOX_Life_%282017%29.png" tvg-id="a08bb1d82d15315504983219ec6ae475" tvg-chno="42",[504] FOX Life
+http://172.24.16.3:9981/stream/channelid/1488030624?profile=pass
+#EXTINF:-1 logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f6/BeIN_Sports.png" tvg-id="84f9f90f46e4f1a3f6e37cc699bb18d5" tvg-chno="43",[701] BEIN Sports
 http://172.24.16.3:9981/stream/channelid/268040580?profile=pass
-#EXTINF:-1 logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/B2E/bein-sports-2-hero.png" tvg-id="d94679530832445bd12ff1b9b428b726",[702] BEIN Sports 2
-http://172.24.16.3:9981/stream/channelid/1400456921?profile=pass
-#EXTINF:-1 logo="http://www.lbn.lk/images/channel-logo/1464927889njn.png" tvg-id="44aa98b8a0f14ab54a04e06a99d404b5",[704] Fight Sport
+#EXTINF:-1 logo="http://www.lbn.lk/images/channel-logo/1464927889njn.png" tvg-id="44aa98b8a0f14ab54a04e06a99d404b5" tvg-chno="44",[704] Fight Sport
 http://172.24.16.3:9981/stream/channelid/949529156?profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/800px-FOX_Sports_logo.svg.png" tvg-id="60bf8762448161553073e2ab5990a503",[705] FOX Sport 
+#EXTINF:-1 logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/B2E/bein-sports-2-hero.png" tvg-id="d94679530832445bd12ff1b9b428b726" tvg-chno="45",[702] BEIN Sports 2
+http://172.24.16.3:9981/stream/channelid/1400456921?profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/800px-FOX_Sports_logo.svg.png" tvg-id="60bf8762448161553073e2ab5990a503" tvg-chno="46",[705] FOX Sport 
 http://172.24.16.3:9981/stream/channelid/1653063520?profile=pass
-#EXTINF:-1 logo="https://1.bp.blogspot.com/-G8AiREdNvYI/V4JSsE4HoZI/AAAAAAAAEBc/nN0nIrUiovcKjftgJqxvXgh3QM0P57kwgCLcB/s1600/al_quran_al_kareem_tv.png" tvg-id="d9c08849b042d8cd295fb48377805e27",[850] Al Quran Al Kareem
-http://172.24.16.3:9981/stream/channelid/1233699033?profile=pass
-#EXTINF:-1 logo="http://rodja.tv/web/wp-content/uploads/logo-rodjatv.png" tvg-id="0ccc1e88faa6f3533de0f9d52f5adcb4",[852] Rodja TV
+#EXTINF:-1 logo="http://rodja.tv/web/wp-content/uploads/logo-rodjatv.png" tvg-id="0ccc1e88faa6f3533de0f9d52f5adcb4" tvg-chno="47",[852] Rodja TV
 http://172.24.16.3:9981/stream/channelid/136236044?profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/81/Logo_MQTV.png/800px-Logo_MQTV.png" tvg-id="f3b30e4eb3f665e7e2350d39cd525b9c",[854] MQTV
+#EXTINF:-1 logo="https://1.bp.blogspot.com/-G8AiREdNvYI/V4JSsE4HoZI/AAAAAAAAEBc/nN0nIrUiovcKjftgJqxvXgh3QM0P57kwgCLcB/s1600/al_quran_al_kareem_tv.png" tvg-id="d9c08849b042d8cd295fb48377805e27" tvg-chno="48",[850] Al Quran Al Kareem
+http://172.24.16.3:9981/stream/channelid/1233699033?profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/81/Logo_MQTV.png/800px-Logo_MQTV.png" tvg-id="f3b30e4eb3f665e7e2350d39cd525b9c" tvg-chno="49",[854] MQTV
 http://172.24.16.3:9981/stream/channelid/1309586419?profile=pass
-#EXTINF:-1 logo="https://2.bp.blogspot.com/-6ncwuKp3vbg/V8eXE-q1e3I/AAAAAAAAAgo/3AoBGXJMKPQL429shl3Z5gabMgckTEY5gCLcB/s400/tv9-logo.png" tvg-id="daa14951382fad763f9bb7aa482c4613",[855] TV9
+#EXTINF:-1 logo="https://2.bp.blogspot.com/-6ncwuKp3vbg/V8eXE-q1e3I/AAAAAAAAAgo/3AoBGXJMKPQL429shl3Z5gabMgckTEY5gCLcB/s400/tv9-logo.png" tvg-id="daa14951382fad763f9bb7aa482c4613" tvg-chno="50",[855] TV9
 http://172.24.16.3:9981/stream/channelid/1363780058?profile=pass
+#EXTINF:-1 tvg-id="e6a87a867d2be50873282639fcdd1100" tvg-chno="51",[615] Cinema World
+http://172.24.16.3:9981/stream/channelid/108701926?profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/800px-HBO_Family_Asia_logo.svg.png" tvg-id="49b2110becc62abf20b411e9e1b9e2a5" tvg-chno="52",[605] HBO Family
+http://172.24.16.3:9981/stream/channelid/185709129?profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/id/b/b5/Fox_Family_Movies_Logo.svg.png" tvg-id="415271975ec098733a9afb0a3e636202" tvg-chno="53",[608] FOX Family Movies
+http://172.24.16.3:9981/stream/channelid/393302593?profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png" tvg-id="6eed7798c846e29b4d872d000b010daa" tvg-chno="54",[601] HBO
+http://172.24.16.3:9981/stream/channelid/410512750?profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/id/9/96/Bioskop_Indonesia_Transvision.png" tvg-id="d6bfb79d46691b59e3f275ea40006d4e" tvg-chno="55",[618] Bioskop Indonesia
+http://172.24.16.3:9981/stream/channelid/498581462?profile=pass
+#EXTINF:-1 logo="http://www.televisionpost.com/wp-content/uploads/2013/12/zee_bioskop.png" tvg-id="dfd0b3311355d413c03e73204a00a964" tvg-chno="56",[614] Z Bioskop
+http://172.24.16.3:9981/stream/channelid/833867999?profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/HBO_Signature_Asia.svg/800px-HBO_Signature_Asia.svg.png" tvg-id="a6612038489a33fe4f845537aa484284" tvg-chno="57",[602] HBO Signature
+http://172.24.16.3:9981/stream/channelid/941646246?profile=pass
+#EXTINF:-1 tvg-id="ff088eb8680af62340642cb13c28ec66" tvg-chno="58",[613] Star Chinese Movies Legend
+http://172.24.16.3:9981/stream/channelid/948832511?profile=pass
+#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/694086000067235840/j1VRXvlT_400x400.jpg" tvg-id="9e5be33a6cfd553bd312d2359f4f1c7b" tvg-chno="59",[600] Flik
+http://172.24.16.3:9981/stream/channelid/987978654?profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" tvg-id="c8bd2d519a09d5fbac188def87c98a48" tvg-chno="60",[604] HBO Hits
+http://172.24.16.3:9981/stream/channelid/1361952200?profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/800px-Cinemax_%28Yellow%29.svg.png" tvg-id="8d038f5129a1176212787ca23e05edf1" tvg-chno="61",[603] CINEMAX
+http://172.24.16.3:9981/stream/channelid/1368327053?profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/80/FOX_Action_Movies_%282017%29.png/800px-FOX_Action_Movies_%282017%29.png" tvg-id="853c4072502423e73e3140bdb0595068" tvg-chno="62",[609] FOX Action Movies
+http://172.24.16.3:9981/stream/channelid/1916812421?profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/800px-Fox_Movies_%28Asia%29_logo.svg.png" tvg-id="1e8bd2f761344bd1446230f8db7a9e9b" tvg-chno="63",[607] FOX Movies
+http://172.24.16.3:9981/stream/channelid/2010286878?profile=pass
