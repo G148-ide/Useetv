@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 logo="http://www.beritasatu.com/assets/desktop/v2/images/logo-gede.png" tvg-id="3c560d688311bbf183c6f169071b84be",Berita Satu
+http://172.24.16.3:9981/stream/channelid/1745704508?profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/8e/JTV_%282012%29.svg/800px-JTV_%282012%29.svg.png" tvg-id="383af34a6b88dc8e420ca393e1592350",JTV
+http://172.24.16.3:9981/stream/channelid/1257454136?profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/id/9/9e/RtvIndonesia.png" tvg-id="5ae537ebceed927991577f4416f59593",RTV
+http://172.24.16.3:9981/stream/channelid/1798825306?profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/id/f/f2/Logo_tvedukasi_baru.png" tvg-id="5baee4f94d81c220acd337451bf38923",TV Edukasi
+http://172.24.16.3:9981/stream/channelid/2045029979?profile=pass
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" tvg-id="6c3c2c95c7bf07970a9e49b12d5da174",[002] USee Sport 1
 http://172.24.16.3:9981/stream/channelid/355220588?profile=pass
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" tvg-id="76705280f95574833842c73b69adb948",[003] Usee Sport 2
@@ -117,11 +125,3 @@ http://172.24.16.3:9981/stream/channelid/136236044?profile=pass
 http://172.24.16.3:9981/stream/channelid/1309586419?profile=pass
 #EXTINF:-1 logo="https://2.bp.blogspot.com/-6ncwuKp3vbg/V8eXE-q1e3I/AAAAAAAAAgo/3AoBGXJMKPQL429shl3Z5gabMgckTEY5gCLcB/s400/tv9-logo.png" tvg-id="daa14951382fad763f9bb7aa482c4613",[855] TV9
 http://172.24.16.3:9981/stream/channelid/1363780058?profile=pass
-#EXTINF:-1 logo="http://www.beritasatu.com/assets/desktop/v2/images/logo-gede.png" tvg-id="3c560d688311bbf183c6f169071b84be",Berita Satu
-http://172.24.16.3:9981/stream/channelid/1745704508?profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/8e/JTV_%282012%29.svg/800px-JTV_%282012%29.svg.png" tvg-id="383af34a6b88dc8e420ca393e1592350",JTV
-http://172.24.16.3:9981/stream/channelid/1257454136?profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/id/9/9e/RtvIndonesia.png" tvg-id="5ae537ebceed927991577f4416f59593",RTV
-http://172.24.16.3:9981/stream/channelid/1798825306?profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/id/f/f2/Logo_tvedukasi_baru.png" tvg-id="5baee4f94d81c220acd337451bf38923",TV Edukasi
-http://172.24.16.3:9981/stream/channelid/2045029979?profile=pass
