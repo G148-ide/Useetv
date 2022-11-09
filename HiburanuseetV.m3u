@@ -12,9 +12,6 @@ rtp://@239.1.1.115:8664
 #EXTINF:-1 tvg-logo="http://www.nexmedia.co.id/wp-content/uploads/2017/04/CITRADRAMA.png" group-title="Gen Entertainment",[534] Citra Drama
 rtp://@239.1.1.44:8238
 
-#EXTINF:-1 tvg-logo="http://www.nexmedia.co.id/wp-content/uploads/2017/04/CITRAENTERTAINMENT2.png" group-title="Gen Entertainment",[535] Citra Entertainment
-rtp://@239.1.1.109:8628
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a1/Insert_Transvision.png" group-title="Gen Entertainment",[503] INSERT
 rtp://@239.1.1.113:8652
 
@@ -29,11 +26,3 @@ rtp://@239.1.1.43:8232
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/50/Fox-Crime.png" group-title="Gen Entertainment",[513] FOX Crime
 rtp://@239.1.1.161:8940
-
-
-
-#EXTINF:-1 tvg-logo="http://www.astro.com.my/astro-go-channels/images/aniplus-logo.png" group-title="Gen Entertainment",[518] Aniplus
-rtp://@239.1.1.117:8676
-
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/398_300.png" group-title="Gen Entertainment",[519] NHK World Premium
-rtp://@239.1.1.165:8964
