@@ -1,11 +1,12 @@
 #EXTM3U
+
 #EXTINF:-1,ID | GTVⓧ HD
 http://daddyserver.com:8080/roi123/N0W4yF0VAn/64345
 #EXTINF:-1,ID | MNC TVⓧ
 http://daddyserver.com:8080/roi123/N0W4yF0VAn/64344
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GT70CtB/20200225-084711.png" group-title="Local Channel",[130] RCTI
 #EXTINF:-1,ID | Champions TV 1ⓧ HD
 http://daddyserver.com:8080/roi123/N0W4yF0VAn/92780
+
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" tvg-id="6dbae9ea72fcf1b85f9bda80088ad497" tvg-chno="1",[002] USee Sport 1
 http://172.24.16.3:9981/stream/channelid/1793702509?profile=pass
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" tvg-id="3186c1dde4a5f82bf2b5a6e3f50a29aa" tvg-chno="2",[003] Usee Sport 2
