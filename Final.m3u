@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Tg53dB7/20200225-085803.png" group-title="Local Channel",[128] GTV
 https://cubmu.superzap.xyz:8279/gtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3Bk8qLp/20200225-084949.png" group-title="Local Channel",[129] MNC TV
